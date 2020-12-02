@@ -1,0 +1,21 @@
+/*--------------------
+Body
+--------------------*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  background: linear-gradient(135deg, #2c1b14, #000000);
+}
+
+.scene {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+}
