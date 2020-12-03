@@ -11,7 +11,7 @@ body {
   height: 100vh;
   margin: 0;
   overflow: hidden;
-  background: linear-gradient(135deg, #2c1b14, #000000);
+  background: linear-gradient(135deg, #b4b0b0, #fafafa);
 }
 
 .scene {

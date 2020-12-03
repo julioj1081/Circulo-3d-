@@ -158,7 +158,7 @@ const onMouseMove = (e) => {
 Spring
 --------------------*/
 let spring = {
-  scale: 1.5
+  scale: 1
 };
 const clicking = {
   down: () => {
